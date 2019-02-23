@@ -1,0 +1,8 @@
+{
+    "name": "Templetate_Radar",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "holt1",
+    "contributors": [],
+    "dependencies": {}
+}
